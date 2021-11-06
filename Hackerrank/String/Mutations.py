@@ -9,3 +9,5 @@ if __name__ == '__main__':
     i, c = input().split()
     s_new = mutate_string(s, int(i), c)
     print(s_new)
+
+print("probando el curso GIT")
